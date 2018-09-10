@@ -22,9 +22,9 @@ public class SwaggerConfig {
 	
 	
 
-	  public static final Contact DEFAULT_CONTACT = new Contact("MEd chiheb", "http://google.com", "mc.benjemaa@gmail.com");
+	  public static final Contact DEFAULT_CONTACT = new Contact("Mohamed chiheb", "--", "mc.benjemaa@gmail.com");
 	  public static final ApiInfo DEFAULTAPIINFO = new ApiInfo(
-			  "Tutoriel Restfull with Spring API", "Tutoriel Api Documentation", "1.0", "urn:tos",
+			  "Spring-Starter-Rest-API", "Tutoriel Api Documentation", "1.0", "urn:tos",
 	          DEFAULT_CONTACT, "Apache 2.0", "http://www.apache.org/licenses/LICENSE-2.0");
 	  
 	  
